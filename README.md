@@ -8,5 +8,7 @@ How to install
 git clone https://github.com/pongib/Chat-Feature-in-Traffix.git
 
 npm install -g ionic
-ionic add platfrom android
+
+ionic add platfrom android 
+
 ionic build | ionic run
